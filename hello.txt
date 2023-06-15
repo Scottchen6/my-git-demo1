@@ -1,0 +1,15 @@
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+hello world;
+
+使用Linux命令操作
