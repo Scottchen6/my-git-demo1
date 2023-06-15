@@ -9,7 +9,7 @@ hello world;
 hello world;
 hello world;
 hello world;
-hello world;
+hello world; master test
 hello world;
 
 使用Linux命令操作
